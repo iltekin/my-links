@@ -1,26 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Sezer İltekin",
+  "description": "iOS Developer",
+  "image_url": "https://pbs.twimg.com/profile_images/1587727782884347909/A-2MfwXM_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/iltekin",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/iltekin",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/sezeriltekin",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/iltekin",
       "icon": "instagram"
     }
   ]
